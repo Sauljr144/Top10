@@ -1,0 +1,75 @@
+/* Titles */
+.top{
+    font-size: 1.5rem;
+    margin-bottom: -15px;
+    margin-left: 17px;
+   
+}
+
+.ten{
+    letter-spacing: -.7rem;
+    font-size: 4rem;
+    
+}
+
+/* Boxes */
+.box1{
+    height: 500px;
+    width: 100%;
+    border-radius: 30px;
+    object-fit: cover;
+    
+}
+
+.box2{
+    height: 239px;
+    width: 100%;
+    border-radius: 30px;
+    object-fit: cover;
+}
+
+.box3{
+    height: 238px;
+    width: 100%;
+    border-radius: 30px;
+    object-fit: cover;
+}
+
+.box4{
+    height: 300px;
+    width: 100%;
+    border-radius: 30px;
+    object-fit: cover;
+}
+
+.box5{
+    height: 300px;
+    width: 100%;
+    border-radius: 30px;
+    object-fit: cover;
+}
+
+.box6{
+    height: 300px;
+    width: 100%;
+    border-radius: 30px;
+    object-fit: cover;
+}
+
+.box7{
+    height: 400px;
+    width: 100%;
+    border-radius: 30px;
+    object-fit: cover;
+}
+
+.box8{
+    height: 400px;
+    width: 100%;
+    border-radius: 30px;
+    object-fit: cover;
+    object-position: 0 0;
+}
+
+
+

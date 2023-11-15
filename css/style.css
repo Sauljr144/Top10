@@ -1,0 +1,387 @@
+
+
+/* navbar with horizontal scroll on mobile*/
+
+.navText{
+    font-family: 'roboto-black';
+    font-size: 1.25rem;
+    letter-spacing: -.1rem;
+    
+}
+
+.box {
+    width: 73px;
+    height: 82px;
+    border-radius: 9px;
+    object-fit: cover;
+}
+
+.scroll {
+    white-space: nowrap; 
+    overflow: auto;
+ 
+}
+.scroll::-webkit-scrollbar {
+    display: none; 
+}
+
+a:link { text-decoration: none; }
+
+a:visited { text-decoration: none; }
+
+a:hover { text-decoration: none; }
+
+a:active { text-decoration: none; }
+
+a { color: black; } 
+
+
+h1{
+    font-family: 'roboto-bold' ;
+    font-size: 3.25rem;
+}
+
+h2{
+    font-family: 'roboto-bold' ;
+    font-size: 2rem;
+}
+
+p{
+    font-family: 'roboto-medium';
+    font-size: 1rem;
+}
+
+.titleSpread{
+    letter-spacing: 1.4rem;
+}
+
+.mypar1 p{
+    font-size: 1.7rem;
+    font-family: 'roboto-bold';
+    margin-left: 100px;
+}
+
+
+/* Img boxes */
+.img1{
+    height: 400px;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 30px;
+}
+
+.img2{
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+    object-position: 0 10%;
+    border-radius: 30px;
+}
+
+.img3{
+    height: 500px;
+    width: 100%;
+    object-fit: cover;
+    object-position: 0 10%;
+    border-radius: 30px;
+}
+
+.img4{
+    height: 500px;
+    width: 100%;
+    object-fit: cover;
+    object-position: 40% 0;
+    border-radius: 30px;
+}
+
+.img5{
+    height: 400px;
+    width: 100%;
+    object-fit: cover;
+    object-position: 0 35%;
+    border-radius: 30px;
+
+}
+
+.img6{
+    height: 400px;
+    width: 100%;
+    object-fit: cover;
+    object-position: 0 25%;
+    border-radius: 30px;
+
+}
+
+.img7{
+    height: 500px;
+    width: 100%;
+    object-fit: cover;
+    object-position: 20% 0;
+    border-radius: 30px;
+}
+
+.img8{
+    height: 400px;
+    width: 100%;
+    object-fit: cover;
+    object-position: 0 0;
+    border-radius: 30px;
+}
+
+.img9{
+    height: 350px;
+    width: 80%;
+    object-fit: cover;
+    object-position: 0 0;
+    border-radius: 30px;
+}
+
+
+.img10{
+    height: 350px;
+    width: 80%;
+    object-fit: cover;
+    border-radius: 30px;
+}
+
+.img11{
+    height: 450px;
+    width: 100%;
+    object-fit: cover;
+    object-position: 50% 10%;
+    border-radius: 30px;
+}
+
+.img12{
+    height: 450px;
+    width: 100%;
+    object-fit: cover;
+    object-position: 50% 10%;
+    border-radius: 30px;
+}
+
+.img13{
+    height: 400px;
+    width: 100%;
+    object-fit: cover;
+    object-position: 0 35%;
+    border-radius: 30px;
+}
+
+.img14{
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+    object-position: 0 10%;
+    border-radius: 30px;
+}
+
+.img15{
+    height:400px;
+    width: 100%;
+    object-fit: cover;
+    object-position: 0 30%;
+    border-radius: 30px;
+}
+
+.img16{
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+    object-position:  30% 0;
+    border-radius: 30px;
+}
+
+
+.box2{
+    height: 300px;
+    width: 100%;
+    border-radius: 30px;
+    background-color: #F0F0F0;
+}
+
+
+.mybg2{
+    background-color: #F0F0F0;
+}
+
+
+/* Video Section */
+
+.box3{
+    height: auto;
+    width: 100%;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    background-color: #F0F0F0;
+    object-fit: cover;
+    
+}
+
+.box4{
+    background-color: #F0F0F0;
+    height: auto;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+
+
+.myposition{
+    object-position: 70% 20%;
+}
+
+/* Carousel */
+.myCarousel{
+    border-radius: 30px;
+    
+}
+
+.c-img{
+    height: 500px;
+    width: 100%;
+    object-fit: cover;
+    object-position: 50% 0;
+}
+
+
+
+
+/* Dark Pages */
+.mybg{
+    background-color: black;
+}
+
+.title{
+    letter-spacing: 1.4rem;
+    font-size: 4.25rem;
+    color: white;
+}
+
+.title2{
+    font-size: 4.25rem;
+    color: white;
+}
+
+
+.navTitle{
+    color: white;
+}
+
+
+.darkBox{
+    height: auto;
+    width: 100%;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    background-color: #1E1E1E;
+    object-fit: cover;
+    
+}
+
+.videoDarkTextBox{
+    background-color: #1E1E1E;
+    height: auto;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+
+.whiteText {
+    color: white;
+    font-size: 1rem;
+}
+
+.box5{
+    height: 300px;
+    width: 100%;
+    color: white;
+    background-color: black;
+}
+
+.box6{
+    height: 450px;
+    width: 100%;
+    color: white;
+   
+}
+
+.largePText{
+    font-family: roboto-bold;
+    font-size: 1.5rem;
+}
+
+
+
+/* Media Queries */
+
+@media screen and (max-width: 844px){
+    .title{
+        letter-spacing: .5rem;
+        font-size: 1.5rem;
+    }
+    .whiteText{
+        font-size: .8rem;
+    }
+
+    .c-img{
+        height: 300px;
+    }
+
+    h1{
+        font-size: 2.5rem;
+    }
+
+    .titleSpread{
+        letter-spacing: .4rem;
+    }
+
+    .img6{
+        object-position: 50% 0;
+    }
+
+    .img9{
+        height: 200px;
+    }
+}
+
+
+
+
+
+
+/* Fonts */
+
+@font-face {
+    font-family: 'roboto-black';
+    src: url('fonts/roboto-black-webfont.woff2') format('woff2'),
+         url('fonts/roboto-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'roboto-bold';
+    src: url('fonts/roboto-bold-webfont.woff2') format('woff2'),
+         url('fonts/roboto-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'roboto-medium';
+    src: url('fonts/roboto-medium-webfont.woff2') format('woff2'),
+         url('fonts/roboto-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'roboto-regular';
+    src: url('fonts/roboto-regular-webfont.woff2') format('woff2'),
+         url('fonts/roboto-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
